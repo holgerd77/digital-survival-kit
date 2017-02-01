@@ -10,6 +10,7 @@ Pull requests to add to the list are very welcome!
 Things useful to download
 
 * [Wikipedia Dumps](https://dumps.wikimedia.org/)
+* [Survival Manual - US Army](https://archive.org/details/Fm21-76SurvivalManual)
 
 ## Regaining Access
 
