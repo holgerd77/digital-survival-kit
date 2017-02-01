@@ -9,7 +9,7 @@ Pull requests to add to the list are very welcome!
 
 Things useful to download
 
-* Wikipedia Dump
+Wikipedia Dumps(https://dumps.wikimedia.org/)
 
 ## Regaining access
 
