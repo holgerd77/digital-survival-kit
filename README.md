@@ -16,4 +16,4 @@ Things useful to download
 
 How to get back online / build up or connect to an alternative network infrastructure
 
-
+* [Building a Wi-Fi Mesh Network](https://www.fastcompany.com/3020680/how-to-build-a-low-cost-wifi-mesh-network-for-emergency-communication)
