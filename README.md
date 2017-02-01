@@ -9,9 +9,9 @@ Pull requests to add to the list are very welcome!
 
 Things useful to download
 
-Wikipedia Dumps(https://dumps.wikimedia.org/)
+* [Wikipedia Dumps](https://dumps.wikimedia.org/)
 
-## Regaining access
+## Regaining Access
 
 How to get back online / build up or connect to an alternative network infrastructure
 
