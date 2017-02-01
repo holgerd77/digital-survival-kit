@@ -1,5 +1,5 @@
 # digital-survival-kit
-Times are getting tougher and the word more unstable with latest political developments.
+Times are getting tougher and the world more unstable with latest political developments.
 
 This repository is a collection of tools for digital survival, with the focus on regaining connectivity and access to information when internet connection is damaged / unavailable for a longer period of time.
 
